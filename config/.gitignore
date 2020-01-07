@@ -1,0 +1,29 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# .env
+.env
+
+
+# Dependency directory
+node_modules
+
+
+# lock files
+yarn.lock
+package-lock.json
+
+
+
+#Api-documents
+app
+docs
+/docs
+docs/*
